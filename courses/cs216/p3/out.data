@@ -1,0 +1,34 @@
+*~< Lab Report >~*
+
+List is empty not able to delete!
+
+Laptop list is empty not able to print!
+
+Desktop list is empty not able to print!
+
+High RAM & Disk computers list is empty not able to print!
+
+List is empty not able to print!
+
+IdNumber           Processor        RAM Size Disk Size  Computer Type        Cost        Location
+--------           ---------        -------- ---------  -------------        ----        --------
+2376        3rdGenIntelCorei3          4GB      1.00TB     Desktop         $699.00         SE145
+3491        4thGenIntelCorei7         16GB      2.00TB     Desktop         $1255.00         SE135
+6840          CeleronDualCore          4GB    500.00GB      Laptop         $499.00         SE136
+
+SE135:	%33.33
+SE136:	%33.33
+SE145:	%33.33
+
+*** 0 invalid record(s)
+
+Laptop list is empty not able to print!
+
+Desktop list is empty not able to print!
+
+High RAM & Disk computers list is empty not able to print!
+
+List is empty not able to print!
+
+*< end  >*
+

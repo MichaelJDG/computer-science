@@ -1,0 +1,13 @@
+<* Complex Numbers *>
+
+A = (1) + (1)i
+B = (0) + (0)i
+A + B = (1) + (1)i
+A - B = (1) + (1)i
+A * B = (0) + (0)i
+B = (0) + (0)i    Can not Divide!
+
+++A = (2) + (2)i
+B++ = (0) + (0)i
+
+<End>

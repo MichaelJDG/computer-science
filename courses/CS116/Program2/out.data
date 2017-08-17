@@ -1,0 +1,35 @@
+*~~< Patient Exam Report >~~*
+
+Name        Pat.       M/F      Exam 1   Exam 2   Exam 3   AVG      Risk Level   
+----        ----       ---      ------   ------   ------   ---      ----------   
+Lewis,Rose  1111       F        75.00    80.00    75.00    76.67    BLUE         
+Weber,Mark  7846       M        99.00    97.00    99.00    98.33    RED          
+Runer,Jon   9193       M        60.00    100.00   83.00    81.00    YELLOW       
+Sooner,Al   8868       M        -1.00    0.00     100.00   ~~ Invalid data ~~     
+Pond,Lili   3444       F        88.00    88.00    88.00    88.00    YELLOW       
+Kim,Soondok 1133       F        75.00    80.00    70.00    75.00    BLUE         
+Garcia,Jose 7821       M        11.00    11.00    11.00    11.00    GREEN        
+Sabbah,Ali  9102       M        60.00    100.00   83.00    81.00    YELLOW       
+Jackson,Bo  8888       M        -1.00    0.00     100.00   ~~ Invalid data ~~     
+Bai,Huirong 3456       F        98.00    88.00    88.00    91.33    ORANGE       
+
+
+Summary
+
+RED     :*
+ORANGE  :*
+YELLOW  :***
+BLUE    :**
+GREEN   :*
+
+Female  : 50.00% (4 valid records)
+Male    : 50.00% (4 valid records)
+
+Valid   : 80.00% (8 records)
+Invalid : 20.00% (2 records)
+
+Max     : 98.33 (PatientID:7846)
+Min     : 11.00 (PatinetID:7821)
+
+
+*< end of report>*

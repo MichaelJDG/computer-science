@@ -1,0 +1,40 @@
+<~~~ Binary Tree Report ~~~>
+
+111---Tree is empty! No delete!
+
+Tree is empty! No Print!
+
+Tree is empty! No nodes!
+
+Tree is empty! No height!
+
+222---Tree is empty! No Search!
+
+222---Tree is empty! No update!
+
+Student with 111 ID Info: B - Information System - Female
+
+Inorder of Tree
+---------------
+111 B
+
+Preorder of Tree
+----------------
+111 B
+
+Postorder of Tree
+-----------------
+111 B
+
+A: 0.00%
+B: 100.00%
+C: 0.00%
+D: 0.00%
+E: 0.00%
+F: 0.00%
+
+Number of Nodes: 1
+
+Height of Tree: 0
+
+>>> end <<<
